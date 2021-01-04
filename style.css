@@ -55,18 +55,42 @@ html {
     top: 0;
     background-color: black;
 }
+
 #img1 {
     width: 400px;
     height: 400px;
 }
+
 #img2 {
     width: 400px;
     height: 400px;
 }
+
 #img3 {
     width: 400px;
     height: 400px;
 }
-#new{
-    text-align:justify;
+
+#new {
+    text-align: justify;
+}
+
+#achievementsID {
+    padding-bottom: 10px;
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 10%;
+    display: inline-block;
+}
+
+.movie_head i {
+    float: right
+}
+.movie_text span{
+    color: coral;
 }
